@@ -1,0 +1,17 @@
+{
+    "users":[
+        22725531, //Fo_nz: Bought horse tech
+        106377417, //Monotter: Owner
+        1922495007, //BeatlessOghuz: Altaccount of Monotter
+        213841851, //llterish: Uh... A person given access by Owners (Pfps must be anime)
+        503975059, //BSGXAE2: Uh... A person given access by Owners (Pfps must be anime)
+        309801359 //OghuzVonDietrich: Uh... A person given access by Owners (Pfps must be anime)
+    ],
+    "groups":[
+        4850931, //Group of Owner
+        10344976, //
+        9443009,
+        4654821,
+        7523945
+    ]
+}
