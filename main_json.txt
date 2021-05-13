@@ -10,6 +10,7 @@
     "groups":[
         4850931, //Group of Owner
         9443009, //Bought Horse Tech
-        7523945 //Uh... A group given access by Owners
+        7523945, //Uh... A group given access by Owners
+        10277553 //Uh... A group given access by Owners
     ]
 }
