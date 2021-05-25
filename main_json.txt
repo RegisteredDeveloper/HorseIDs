@@ -4,6 +4,7 @@
         106377417, //Monotter: Owner
         1922495007, //BeatlessOghuz: Altaccount of Monotter
         213841851, //llterish: Uh... A person given access by Owners
+        503975059, //BSGXAE2: Uh... A person given access by Owners
         309801359 //OghuzVonDietrich: Uh... A person given access by Owners
     ],
     "groups":[
