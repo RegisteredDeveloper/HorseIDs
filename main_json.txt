@@ -4,11 +4,13 @@
         106377417, //Monotter: Owner
         1922495007, //BeatlessOghuz: Altaccount of Monotter
         213841851, //llterish: Uh... A person given access by Owners
+        503975059, //BSGXAE2: Uh... A person given access by Owners
         309801359 //OghuzVonDietrich: Uh... A person given access by Owners
     ],
     "groups":[
         4850931, //Group of Owner
         9443009, //Bought Horse Tech
-        7523945 //Uh... A group given access by Owners
+        7523945, //Uh... A group given access by Owners
+        10277553 //Uh... A group given access by Owners
     ]
 }
