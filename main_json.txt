@@ -5,7 +5,8 @@
         1922495007, //BeatlessOghuz: Altaccount of Monotter
         213841851, //llterish: Uh... A person given access by Owners (Pfps must be anime)
         503975059, //BSGXAE2: Uh... A person given access by Owners (Pfps must be anime)
-        309801359 //OghuzVonDietrich: Uh... A person given access by Owners (Pfps must be anime)
+        309801359, //OghuzVonDietrich: Uh... A person given access by Owners (Pfps must be anime)
+        19709139 //IltrdsNoble that get access from daniel
     ],
     "groups":[
         4850931, //Group of Owner
