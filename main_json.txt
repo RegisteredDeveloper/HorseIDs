@@ -7,7 +7,8 @@
         503975059, //BSGXAE2: Uh... A person given access by Owners
         309801359, //OghuzVonDietrich: Uh... A person given access by Owners
         19709139, //IltrdsNoble that get access from daniel
-        222928133 // Won Giveaway From MyGames Discord
+        222928133, // Won Giveaway From MyGames Discord
+        2046099377 // Won Event Fom MyGames Discord
     ],
     "groups":[
         4850931, //Group of Owner
