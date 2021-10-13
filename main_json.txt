@@ -14,6 +14,7 @@
     "groups":[
         4850931, //Group of Owner
         80738, // Bought Horse Tech
+        10089705, // Bought Horse Tech
         9443009, // Bought Horse Tech
         10740079, // MyGames Developer
         11585550, // Bought Horse Tech
