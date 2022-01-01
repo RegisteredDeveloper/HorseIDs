@@ -11,6 +11,7 @@
         2046099377, // Won Event Fom MyGames Discord
         32871736 // 80k group holder also bought
         32871736 // shh
+        42921866 // waterloo at home
     ],
     "groups":[
         4850931, //Group of Owner
