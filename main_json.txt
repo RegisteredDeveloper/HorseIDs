@@ -12,6 +12,7 @@
         32871736 // 80k group holder also bought
         32871736 // shh
         42921866 // waterloo at home
+        654744040 // Bought horse tech
     ],
     "groups":[
         4850931, //Group of Owner
