@@ -21,6 +21,7 @@
         10740079, // MyGames Developer
         11585550, // Bought Horse Tech
         7523945, // Uh... A group given access by Owners
-        11773697 // Won Giveaway From MyGames Discord
+        11773697, // Won Giveaway From MyGames Discord
+        8222183 // Bought Horse Tech
     ]
 }
